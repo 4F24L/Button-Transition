@@ -40,7 +40,7 @@ box-sizing: border-box;
 #ft{
   position: fixed;
   left: 50%;
-  font-size: 12px;
+  /*font-size: 12px;*/
   transform: translateX(-50%);
   border-radius: 10px;
   box-shadow: 0 0 15px 2px black;
